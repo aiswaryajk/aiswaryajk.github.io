@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
+Hello
+My name is Aiswarya C . I am currently pursuing my B.Tech degree in Computer Science from MES College of Engineering. I am interested in doing creative designing. 
 
-
-
-gfjkylyliyl
 
 You can use the [editor on GitHub](https://github.com/aiswaryajk/aiswaryajk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
