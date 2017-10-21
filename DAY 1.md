@@ -1,5 +1,5 @@
-![final2](https://user-images.githubusercontent.com/32665041/31853435-eb8b3cb6-b63c-11e7-9395-6d1277a9cbf5.png)
-# DAY 1
+
+# DAY 1 ![final2](https://user-images.githubusercontent.com/32665041/31853435-eb8b3cb6-b63c-11e7-9395-6d1277a9cbf5.png)
 
 The first day included the introduction to Fablab and its scopes , introduction to different softwares, different machines like 3D printer ,Vinyl cutter etc. 
 The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil Gershenfeld of the Massachusetts Institute of Technology (MIT), who started a study into the computational capacities that are inherent to physical systems. As a sign of honour, Neil, Father of FabLab described Vigyan Ashram as ‘Fab Lab – 0’.
