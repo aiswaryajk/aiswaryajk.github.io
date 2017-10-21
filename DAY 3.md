@@ -6,3 +6,6 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 ## STEPS FOR CREATING GITHUB PAGE
 
 * STEP 1
+![4](https://user-images.githubusercontent.com/32665041/31854391-1e984e5e-b64d-11e7-8b93-b9cde826b094.png)
+
+* STEP 2
