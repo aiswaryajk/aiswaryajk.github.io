@@ -17,16 +17,20 @@ The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil G
 
 Following are the machines setup at fablab.
 
-### 3D PRINTER
+### 3D PRINTER![arrow](https://user-images.githubusercontent.com/32665041/31853971-d1617f9e-b646-11e7-9234-4bdc5b0d7dc2.png)
+
 ![3d printer](https://user-images.githubusercontent.com/32665041/31853900-a7ea9d54-b645-11e7-83ca-212abe0c9f6c.png)
 
-### CNC CUTTING / PCB MILLING MACHINE
+### CNC CUTTING / PCB MILLING MACHINE![arrow](https://user-images.githubusercontent.com/32665041/31853971-d1617f9e-b646-11e7-9234-4bdc5b0d7dc2.png)
+
 ![cnc](https://user-images.githubusercontent.com/32665041/31853901-a8577d0c-b645-11e7-8214-5a91cd2afe55.png)
 
-### LASER PRINTER / ENGRAVING MACHINE
+### LASER PRINTER / ENGRAVING MACHINE![arrow](https://user-images.githubusercontent.com/32665041/31853971-d1617f9e-b646-11e7-9234-4bdc5b0d7dc2.png)
+
 ![laser](https://user-images.githubusercontent.com/32665041/31853902-a8b4140e-b645-11e7-835b-af7c34c57e1e.png)
 
-### VINYL CUTTER
+### VINYL CUTTER![arrow](https://user-images.githubusercontent.com/32665041/31853971-d1617f9e-b646-11e7-9234-4bdc5b0d7dc2.png)
+
 ![vinyl](https://user-images.githubusercontent.com/32665041/31853903-a910ba42-b645-11e7-83af-5a0b0a02cd75.png)
 
 
