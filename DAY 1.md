@@ -1,4 +1,4 @@
-![Uploading final2.png…]()
+
 #DAY 1
 
 The first day included the introduction to Fablab and its scopes , introduction to different softwares, different machines like 3D printer ,Vinyl cutter etc. 
