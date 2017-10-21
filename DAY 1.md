@@ -17,16 +17,17 @@ The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil G
 
 Following are the machines setup at fablab.
 
-# 3D PRINTER
+## 3D PRINTER
+![3d printer](https://user-images.githubusercontent.com/32665041/31853844-a4118dc4-b644-11e7-8a0b-c4c483e969bc.jpg)
 
 
-# CNC CUTTING / PCB MILLING MACHINE
+## CNC CUTTING / PCB MILLING MACHINE
 
 
-# LASER PRINTER / ENGRAVING MACHINE
+## LASER PRINTER / ENGRAVING MACHINE
 
 
-# VINYL CUTTER
+## VINYL CUTTER
 
 
 
