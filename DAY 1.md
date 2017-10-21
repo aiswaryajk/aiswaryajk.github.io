@@ -12,3 +12,22 @@ The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil G
 ![1](https://user-images.githubusercontent.com/32665041/31853240-350e4408-b63a-11e7-96b7-a7e9e87c14c8.jpg)
 
 * Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to conduct a 2 week training session for the students of the college to famialarize the machines to the students and to provide a hands-on workshop on the same .
+
+# Machines 
+
+Following are the machines setup at fablab.
+
+# 3D PRINTER
+
+
+# CNC CUTTING / PCB MILLING MACHINE
+
+
+# LASER PRINTER / ENGRAVING MACHINE
+
+
+# VINYL CUTTER
+
+
+
+
