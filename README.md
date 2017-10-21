@@ -12,7 +12,7 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 # TABLE OF CONTENTS
 
-## Introduction to Fablab(http://aiswaryajk.github.io/DAY1)
+## Introduction to Fablab(http://aiswaryajk.github.io/day1)
 
 ## Introduction to softwares used(http://aiswaryajk.github.io/DAY2)
 
