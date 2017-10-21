@@ -22,7 +22,7 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 ![8](https://user-images.githubusercontent.com/32665041/31854461-9ee83e06-b64e-11e7-873b-062abac4fe6a.png)
 
 * PAGE CREATED 
-
+![mypage](https://user-images.githubusercontent.com/32665041/31854533-c86359d6-b64f-11e7-94f9-6e79d0d02510.png)
 
 Following is the step to code the page in previously created account on GITHUB:
 
