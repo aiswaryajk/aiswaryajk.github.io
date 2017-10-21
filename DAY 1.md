@@ -1,4 +1,3 @@
-![1](https://user-images.githubusercontent.com/32665041/31853240-350e4408-b63a-11e7-96b7-a7e9e87c14c8.jpg)
 ![Uploading final2.png…]()
 #DAY 1
 
