@@ -18,17 +18,15 @@ The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil G
 Following are the machines setup at fablab.
 
 ### 3D PRINTER
-![3d printer](https://user-images.githubusercontent.com/32665041/31853844-a4118dc4-b644-11e7-8a0b-c4c483e969bc.jpg)
-
+![3d printer](https://user-images.githubusercontent.com/32665041/31853900-a7ea9d54-b645-11e7-83ca-212abe0c9f6c.png)
 
 ### CNC CUTTING / PCB MILLING MACHINE
-
+![cnc](https://user-images.githubusercontent.com/32665041/31853901-a8577d0c-b645-11e7-8214-5a91cd2afe55.png)
 
 ### LASER PRINTER / ENGRAVING MACHINE
-
+![laser](https://user-images.githubusercontent.com/32665041/31853902-a8b4140e-b645-11e7-835b-af7c34c57e1e.png)
 
 ### VINYL CUTTER
-
-
+![vinyl](https://user-images.githubusercontent.com/32665041/31853903-a910ba42-b645-11e7-83af-5a0b0a02cd75.png)
 
 
