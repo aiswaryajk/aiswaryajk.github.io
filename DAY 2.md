@@ -1,3 +1,4 @@
+![software](https://user-images.githubusercontent.com/32665041/31854274-d5ede5c6-b64a-11e7-9ebb-0befe8021d62.png)
 # DAY 2: INTRODUCTION TO SOFTWARES USED
 
 Following are some of the softwares used for designing purpose
@@ -9,6 +10,8 @@ Following are some of the softwares used for designing purpose
 * This software is used for converting the stl file into gcode.
 * Here we can specify the strength and durability of the materail.
 * And also the time ultimaker will take to print the design will also be shown.
+
+
 
 ## 123D SOFTWARE
 ![fab1](https://user-images.githubusercontent.com/32665041/31854154-dcc874a2-b649-11e7-8267-1964210698f9.png)
