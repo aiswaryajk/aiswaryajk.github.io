@@ -9,7 +9,7 @@ FABLAB is a 3D fabrication lab that has been recently set up at our college. It 
 
 
 
-
+![logo-fablab](https://user-images.githubusercontent.com/32665041/31852851-3863c638-b634-11e7-84b3-90a2a6dfcbe6.jpg)
 
 
 
