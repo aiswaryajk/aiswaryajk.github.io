@@ -11,4 +11,11 @@ Following are some of the softwares used for designing purpose
 * And also the time ultimaker will take to print the design will also be shown.
 
 ## 123D SOFTWARE
+![fab1](https://user-images.githubusercontent.com/32665041/31854154-dcc874a2-b649-11e7-8267-1964210698f9.png)
+
+* 123D Design uses a simple and intuitive graphical user interface that places your toolbox on the top and the view tools right beneath it, with the design area taking the rest of the space. 
+* The icons of the toolbox items are very indicative of their functionality, and they spawn items list when clicked. 
+* The approach of placing something in the design area is not the usual “drag n drop” but the more convenient “click and place”.
+* Drag and drop may be used later to refine the position of an item though, but that is camera-dependent as it works with vertical and perpendicular vectors. 
+* By clicking the item after its placement, you can change its properties (height, length, etc).
 
