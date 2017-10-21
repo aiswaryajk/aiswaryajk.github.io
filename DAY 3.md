@@ -9,3 +9,27 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 ![4](https://user-images.githubusercontent.com/32665041/31854391-1e984e5e-b64d-11e7-8b93-b9cde826b094.png)
 
 * STEP 2
+![5](https://user-images.githubusercontent.com/32665041/31854458-9e080c6e-b64e-11e7-92d7-3aadb26bd85e.png)
+
+* STEP 3
+
+* Click ‘+’ to create new repository
+* Give a suitable repository name with extension .github.io
+* Select ‘CREATE REPOSITORY’
+![6](https://user-images.githubusercontent.com/32665041/31854459-9e6ab62a-b64e-11e7-917b-c631183cfe18.png)
+
+* STEP 4
+![8](https://user-images.githubusercontent.com/32665041/31854461-9ee83e06-b64e-11e7-873b-062abac4fe6a.png)
+
+* PAGE CREATED 
+
+
+Following is the step to code the page in previously created account on GITHUB:
+
+_ Login into GITHUB account. _ Now select ‘CODE’ on the menu.
+
+* Select your already created project, as mentioned in above section.
+* Click on the edit button on the panel on right side(PEN symbol).
+* The coding page appears. Code it according to the need. For those who are new to coding.A model coding page na med ‘README.md’ is * available on ‘CODE’ page.This can ut ilised to learn coding.
+* After coding click ‘COMMIT CHANGES’.Check the page for the updates.
+* NOW START DOCUMENTING………
